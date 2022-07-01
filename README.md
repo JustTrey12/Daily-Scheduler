@@ -2,8 +2,7 @@
 
  ## Description
   Work Day Scheduler, My job was to  Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-  ![badge](https://img.shields.io/badge/license--brightorange)
-  You can access more badges and their purposes at [shields.io](https://shields.io)
+  
   ## Table of Contents
     * [Usage](#usage)
     * [Questions](#questions)
@@ -13,9 +12,9 @@
         
   ## Usage
     _Instructions for use:_
-    Click the [Here](https://justtrey12.github.io/Daily-Scheduler/) to get started!
-        
-  ## Questions
+    Click the [Here] to get started!
+  [Here](https://justtrey12.github.io/Daily-Scheduler/)
+ ## Questions
         
     _For further questions:_
     If you wish to contact me just schoot me an Email.
