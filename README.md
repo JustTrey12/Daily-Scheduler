@@ -23,8 +23,3 @@
     GitHub: [JustTrey12](https://github.com/JustTrey12)
     Email: [trey.l.scarlett@gmail.com](mailto:trey.l.scarlett@gmail.com)
       
-  ## License
-        
-    _This application has the ._
-        
-    For more information please view the [license description]().
